@@ -84,8 +84,7 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 
 (2) Die Kreismitgliederversammlung tagt mindestens einmal pro Quartal.
 
-(3) Die Einberufung erfolgt aufgrund eines Vorstandsbeschlusses
-oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder wenn der Vorstand handlungsunfähig ist.
+(3) Die Einberufung erfolgt aufgrund eines Vorstandsbeschlusses oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder wenn der Vorstand handlungsunfähig ist.
 
 (4) Der Kreisvorstand lädt jedes Mitglied in Textform mindestens zwei Wochen vorher ein. Die Einladung hat Angaben zum Tagungsort und Tagungsbeginn, der vorläufigen Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 1 Woche vor der Kreismitgliederversammlung sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 
@@ -101,11 +100,11 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 (6) Die Ergebnisse der Kreismitgliederversammlung werden protokolliert und von der Protokollführung, der Versammlungsleitung und der Wahlleitung unterschrieben. Wahlprotokolle werden durch den Wahlleiter und mindestens zwei Wahlhelfer unterschrieben und dem Protokoll beigefügt.
 
 == §6b ständige dezentrale Mitgliederversammlung ==
-(1) Die SDMV kann durch Mehrheitsbeschluss der KMV für eine Dauer von drei bis zwölf Monaten einberufen werden oder durch den Vorstand mit einer Dauer von drei Monaten
+(1) Die SDMV kann durch Mehrheitsbeschluss der KMV für eine Dauer von drei bis zwölf Monaten einberufen werden oder durch den Vorstand mit einer Dauer von drei Monaten.
 
-(2) Die KMV beschließt eine Geschäftsordnung für die SDMV
+(2) Die KMV beschließt eine Geschäftsordnung für die SDMV.
 
-== §6b - Vorstand ==
+== §6c - Vorstand ==
 (1) Dem Vorstand gehören drei bis sieben Piraten an: Ein Vorsitzender, ein stellvertretender Vorsitzender, der Kreisschatzmeister, sowie bis zu vier Beisitzer.
 
 (2) Der Vorstand vertritt die Piratenpartei Düsseldorf nach innen und außen und führt deren Geschäfte auf Grundlage der von den Mitgliedern bestimmten Ziele und Strategien. In aktuellen politischen Fragen setzt der Vorstand seine und die Initiative der Mitglieder um, bis die Kreismitgliederversammlung ihm durch ihre Beschlüsse jeweils Richtlinien gibt.
@@ -130,7 +129,7 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 
 (6) Der Vorstand verfasst Tätigkeitsberichte. Diese umfassen alle Tätigkeitsgebiete des Vorstandes, wobei diese Berichte in Eigenverantwortung jedes Einzelnen verfasst werden. Diese Tätigkeitsberichte werden in Textform unverzüglich an angemessener Stelle veröffentlicht. Der Vorstand verfasst jeden Monat einen Tätigkeitsbericht. Die Tätigkeitsberichte bilden den Rechenschaftsbericht, über den das jeweilige Vorstandsmitglied entlastet wird. Ausnahme ist die Finanzentlastung, diese findet weiterhin einmal jährlich nach Kontrolle der Kassenprüfer statt. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann die Piratenpartei Düsseldorf Ansprüche gegen ihn geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieses unverzüglich einen Tätigkeitsbericht zu verfassen und dem Vorstand zuzuleiten.
 
-== §6c - Initiativrecht ==
+== §6d - Initiativrecht ==
 (1) Jedes Mitglied kann den Vorstand zu einer Handlung auffordern, die sich im Aufgabenbereich des Vorstands befindet, insbesondere Stellungnahmen zu lokalpolitische Themen und Ereignissen oder Änderungen und Erweiterungen der Geschäftsordnung.
 
 (2) Jedes Mitglied kann jeden Fachsprecher zu einer Handlung auffordern, die sich im Aufgabenbereich des Fachsprechers befindet, insbesondere Stellungnahmen zu lokalpolitische Themen und Ereignissen.
@@ -139,7 +138,7 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 
 (4) Die Bearbeitung der Anträge müssen protokolliert werden und im Tätigkeitsbericht vollständig aufgenommen werden.
 
-== §6d - Misstrauensklausel ==
+== §6e - Misstrauensklausel ==
 (1) Wird ein Initiativantrag nach Initiativrecht, der von fünf oder mehr Mitgliedern gestellt wird, abgelehnt, so wird automatisch ein Misstrauensvotum als Tagesordnungspunkt der nächsten Kreismitgliederversammlung hinzugefügt.
 
 (2) Wird ein Initiativantrag nach Initiativrecht von 20% oder mehr Mitgliedern zum Zeitpunkt des Antrags gestellt und vom Vorstand abgelehnt, so ist eine Kreismitgliederversammlung binnen vier Wochen einzuberufen.
