@@ -80,7 +80,7 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 (2) Die Mitgliederversammlungen sind die obersten Organe der Piratenpartei Düsseldorf auf Kreisebene.
 
 == §6a - Kreismitgliederversammlung ==
-(1) Die Kreismitgliederversammlung ist das oberste Organ der Piratenpartei Düsseldorf auf Kreisebene und tagt grundsätzlich öffentlich. Stimmberechtigt sind alle Mitglieder der Piratenpartei Düsseldorf.
+(1) Die Kreismitgliederversammlung tagt grundsätzlich öffentlich. Stimmberechtigt sind alle Mitglieder der Piratenpartei Düsseldorf.
 
 (2) Die Kreismitgliederversammlung tagt mindestens einmal pro Quartal.
 
@@ -99,6 +99,11 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 :(g) Finanzbeschlüsse im Rahmen der Finanzordnung
 
 (6) Die Ergebnisse der Kreismitgliederversammlung werden protokolliert und von der Protokollführung, der Versammlungsleitung und der Wahlleitung unterschrieben. Wahlprotokolle werden durch den Wahlleiter und mindestens zwei Wahlhelfer unterschrieben und dem Protokoll beigefügt.
+
+== §6b ständige dezentrale Mitgliederversammlung ==
+(1) Die SDMV kann durch Mehrheitsbeschluss der KMV für eine Dauer von drei bis zwölf Monaten einberufen werden oder durch den Vorstand mit einer Dauer von drei Monaten
+
+(2) Die KMV beschließt eine Geschäftsordnung für die SDMV
 
 == §6b - Vorstand ==
 (1) Dem Vorstand gehören drei bis sieben Piraten an: Ein Vorsitzender, ein stellvertretender Vorsitzender, der Kreisschatzmeister, sowie bis zu vier Beisitzer.
