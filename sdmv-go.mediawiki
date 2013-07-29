@@ -1,0 +1,203 @@
+=GESCHÄFTSORDNUNG DER SDMV DES KV-DÜSSELDORF=
+
+== 1.0 Begriffsdefinitionen ==
+
+Stimmkarte: Die Karte, die ein Pirat bei seiner Akkreditierung erhält und die er zur Teilnahme an einer Abstimmung der SDMV benötigt.
+
+Akkreditierungsnummer: Die Nummer, die auf der Stimmkarte steht und den Piraten bei einer Abstimmung anhand eines Abgleichs mit der Akkreditiertenliste gleichzeitig ausweist und anonymisiert.
+
+Stimmzettel: Der Zettel, auf dem der Pirat über eingereichte Anträge abstimmt.
+
+Urne: Synonym sowohl für das Gefäß, in dem die ausgefüllten Stimmzettel gesammelt werden, als auch für den Ort, an dem eine Abstimmung möglich ist.
+
+Urnen-Team: Gruppe von mindestens zwei Abstimmungshelfern welcher eine Urne betreuen
+
+Wahlzyklus: Eine Zeitliche Untergliederung der SDMV in welcher ein Wahlgang durchgeführt und die Ergebnisse veröffentlicht werden
+
+== 2.0 Durchführung ==
+
+=== 2.1 Beginn und Dauer ===
+
+(1)Die SDMV wird gemäß der Satzung des KV Düsseldorf durch die KMV oder den Vorstand einberufen. Die Dauer der SDMV kann zwischen drei und zwölf Monaten betragen. Die konkrete Dauer wird durch die KMV bestimmt. Eine SDMV die durch den Vorstand einberufen wurde dauert 3 Monate
+
+(2)Die SDMV beginnt immer zum ersten Tag eines Monates 0:00 Uhr und endet am letzten Tag eines Monats um 24:00 Uhr
+
+(3)Sollte der KV Düsseldorf Handlungsunfähig werden so endet eine einberufende SDMV umgehend. Der akt. Wahlzyklus wird abgebrochen die bis dahin in diesem Wahlzyklus abgegebenen Stimmen sind ungültig.
+
+(4)Sollte die Abstimmungsleitung Handlungsunfähig werden so hat der Vorstand des KV Düsseldorf 5 Tage Zeit die vakanten Positionen zu ersetzen. Gelingt dies nicht, so wird der akt. Wahlzyklus wird abgebrochen und die SDMV endet, die bis dahin in diesem Wahlzyklus abgegebenen Stimmen sind ungültig.
+
+=== 2.2 Wahlzyklus und Wahlgang ===
+
+(1)Die SDMV ist in sog. Wahlzyklen unterteilt. Ein Wahlzyklus beginnt immer am ersten Tag eines Monats um 0:00 Uhr und endet am letzten Tag des Monats um 24:00 Uhr
+
+(2)Innerhalb eines Wahlzyklus findet der Wahlgang statt. Dieser Beginnt ersten Tag eines Monats um 0:00 Uhr und endet am zwanzigsten Monats um 24:00 Uhr.
+
+(3)Während des Wahlganges können Urnen gemäß Punkt 4 geöffnet werden und akkreditierte Piraten dort Ihre Stimme abgeben.
+
+(4)Nach Beendigung des Wahlganges ist die restliche Zeit des Wahlzyklus für die Auszählung und Veröffentlichung der Wahlergebnisse sowie der Vorbereitung des folgenden Wahlzyklus durch die Abstimmungsleitung vorgesehen.
+
+=== 2.3 Anträge ===
+
+(1)Folgende Anträge sind innerhalb der SDMV zulässig a) Programmanträge b) Positionspapiere c) Meinungsbilder d) sonstige Anträge
+
+(2)Für Anträge gelten die selben Antragsfristen wie für die KMV des KV Düsseldorf, auch müssen Anträge der Abstimmungsleitung zugestellt werden.
+
+(3)Ein Antrag gilt als zugestellt wenn er.. a) Den Formalen Kriterien an einen Antragstext genügt, diese sind
+
+* Der Antragstext
+* Antragstitel
+* Name der Antragssteller 
+
+Optional kann der Name der einer Organisationseinheit gemäß §5c der Satzung des KV-Düsseldorf genannt werden. Solange dies auf einen Beschluss dieser Organisationseinheit beruht.
+
+b) Der Abstimmungsleitung auf folgenden Kanälen übermittelt wird
+
+* per E-Mail an duesseldorf-vorstand@piratenpartei-nrw.de
+* per Einwurfeinschreiben an Piratenpartei Kreisverband Düsseldorf 
+
+Postfach 10 41 03, 40032 Düsseldorf
+
+(4)Der Antrag kann auf Wunsch des Antragstellers in jedem beliebigen Wahlzyklus einer SDMV zur Wahl gestellt werden solange die in Punkt 2.3.2 genannten Fristen eingehalten werden.
+
+(5)Erfüllt ein Antrag nicht ein Quorum von min. zwanzig gültigen abgegebenen Stimmen so gilt er als nicht angenommen.
+
+(6)Anträge können durch die Abstimmungsleitung als konkurrierend angesehen werden. Die Antragsteller der betroffenen Anträge sind umgehend über diese Entscheidung zu informieren.
+
+(7)Anträge können spätestens drei Tage vor Beginn des Wahlganges zurückgezogen werden.
+
+(8)Die Diskussion zu Anträgen der SDMV soll über die Mailingliste Düsseldorf-Talk erfolgen. Die Abstimmungsleitung kann weiter Diskussionskanäle /-werkzeuge anbieten welche über die Mailingliste und im Piratenwiki veröffentlicht werden müssen.
+
+== 3.0 Ämter und ihre Aufgaben ==
+
+=== 3.1 Die Abstimmungsleitung ===
+
+(1)Die Abstimmungsleitung besteht aus einem Wahlleiter und einem Akkreditierungs- Piraten.
+
+(2)Die Aufgaben des Wahlleiters wird durch den Vorsitzendem des Kreisverbandes Düsseldorf übernommen.
+
+(3)Die Aufgaben des Akkreditierungs-Piraten werden durch den Schatzmeister des Kreisverbandes Düsseldorf übernommen.
+
+(4)Zur ihrer Unterstützung kann der Kreisvorstand weitere stimmberechtigte Mitglieder des KV Düsseldorf der Piratenpartei mit den Aufgaben des Wahlleiters und Akkreditierungs-Piraten beauftragen. Für Aufgaben des Akkreditierungs-Piraten müssen diese eine Datenschutzbelehrung erhalten und eine Datenschutzverpflichtung unterschrieben haben.
+
+(5) Der Vorsitzende sowie Schatzmeister können von Ihren, in den Punkten 3.2 sowie 3.3, für eine SDMV zugewiesenen Ämtern abgeben falls durch den Vorstand entsprechende Beauftragungen gemäß Punkt 3.4 vergeben wurden.
+
+(6)Unter keinen Umständen ist es gestattet das die Aufgaben des Wahlleiter und Akkreditierungs-Piraten durch eine Person ausgeübt werden.
+
+(7)Die Aufgaben des Akkreditierungs-Piraten sind a) die Akkreditierung von Piraten b) die Erstellung von Akkreditierungslisten
+
+(8)Die Aufgaben des Wahlleiter sind a) die Erstellung der Stimmzettel b) die Auswertung der Abstimmungsergebnisse c) die Veröffentlichung der Gesamtergebnisse beim jeweiligen Antrag
+
+(9)Alle anderen anfallenden Aufgaben teilen die Mitglieder der Abstimmungsleitung unter sich auf.
+
+=== 3.2 Abstimmungshelfer ===
+
+(1)Die Abstimmungshelfer werden von der Abstimmungsleitung ernannt.
+
+(2)Ihre Aufgaben sind a) die Öffnung und Schließung einer Urne b) die Überprüfung der Stimmabgabeberechtigung anhand der Akkreditierungsnummern c) die Ausgabe der Stimmzettel d) die Kontrolle der Stimmzettelabgabe e) die Eintragung der Stimmabgabe in der Akkreditierungsliste
+
+(3)Die Abstimmungshelfer weisen die Piraten auf Abstimmungsmodalitäten hin und stellen die Einhaltung der Abstimmungsordnung (Punkt 5) sicher.
+
+=== 3.3 Protokollführung ===
+
+(1)Das Beschlussprotokoll der Abstimmungsleitung umfasst alle Anträge im exakten Wortlaut, die Ergebnisse der Abstimmung es ist zu veröffentlichen, sobald alle notwendigen Daten vorliegen.
+
+(2)Jeder Öffnung einer Urne gemäß Punkt 4 ist zu Protokollieren. Das Protokoll der Abstimmungshelfer enthält.. a) die Uhrzeiten von Beginn und Ende der Öffnung der Urne b) evtl. Zeugen der Urnen-Öffnung/Schließung c) Anzahl der Abgegebenen Stimmen d) sowie ein Bericht über Vorkommnisse, die die Gültigkeit der Abstimmung an dieser Urne beeinflussen können. Das Protokoll ist von allen Abstimmungshelfern zu unterzeichnen und zeitnah an die Abstimmungsleitung zu übermitteln.
+
+=== 3.4 Ende von Ämtern und Befugnissen ===
+
+(1)Ämter und Befugnisse der Versammlung enden mit dem Ende der Versammlung.
+
+== 4.0 Urnen ==
+
+=== 4.1 Vorbereitung der Urne ===
+
+(1)Es dürfen nur solche Urnen Verwendung finden bei denen die Sicherung von Deckel und Einwurfschacht separat möglich ist.
+
+(2)Vor beginn jedes Wahlzyklus wird der Deckel sowie der Einwurfschaft durch die Abstimmungsleitung versiegelt
+
+=== 4.2 Öffnen und Schließen einer Urne ===
+
+(1)Ort, Zeitpunkt und Dauer der Öffnung eines Urnenschachtes zur Stimmabgabe sind min. 24h vorher auf der Mailingliste nrw-duesseldorf-talk@lists.piratenpartei.de sowie im PiratenWiki zu veröffentlichen.
+
+(2)Für eine Ordnungsgemäßen Ablauf sind min. zwei Abstimmungshelfer dauerhaft vor Ort notwendig
+
+(3)Der Einwurfschacht der Urne wird zum veröffentlichten Zeitpunkt der Öffnung entsiegelt
+
+(4)Nach Beendigung der veröffentlichten Öffnungsdauer wird der Einwurfschacht der Urne durch die Abstimmungshelfer versiegelt
+
+=== 4.3 Ernennung und Entlassung von Abstimmungshelfer ===
+
+(1)Vor und während der SDMV können weitere Piraten zu Abstimmungshelfer ernannt werden, dies muss in Textform bei der Abstimmungsleitung beantragen werden.
+
+(2)Ein Abstimmungshelfer muss auf Antrag a) des Abstimmungshelfers oder b) der Hälfte der akkreditierten Piraten von der Abstimmungsleitung entlassen werden. Dieser Antrag ist in Textform zu stellen.
+
+=== 4.4 Die Stimmkarte ===
+
+(1)Auf der Stimmkarte stehen a) eine 5-stellige Zufallszahl,über die der Akkreditierungs-Pirat den Piraten zuordnen kann (Akkreditierungsnummer) b) Zeilen mit jeweils 2 Feldern, in denen der Erhalt des Stimmzettels und die Stimmzettelabgabe für jede Abstimmung von den Abstimmungshelfern bestätigt werden.
+
+(2)Nach Beendigung der SDMV verfällt die Stimmkarte sowie die Akkreditierungsnummer
+
+(3)Geht eine Stimmkarte verloren, so wird deren Akkreditierungsnummer gesperrt und der Pirat erhält eine neue Stimmkarte mit geänderter Nummer. Hierfür anfallende Kosten trägt der Pirat.
+
+(4)Der Akkreditierung-Pirat stellt in Absprache mit den zur Akkreditierung berechtigten Personen sicher, dass es nicht zur Mehrfachvergabe der gleichen Zuordnungsnummer kommen kann.
+
+=== 4.5 Akkreditierungslisten ===
+
+(1)Der Akkreditierungs- Pirat stellt den Abstimmungshelfer eine Liste der akt. Akkreditierten Piraten zur Verfügung. In dieser Liste sind alle Akkreditierten Piraten sowie die zur Abstimmung stehenden Anträge aufgelistet
+
+(2)Diese Liste wird den Urnen-Teams online zu Verfügung gestellt um die Stimmabgabeberechtigung zu überprüfen und Stimmabgabe zu vermerken.
+
+=== 4.6 Ende der Akkreditierung ===
+
+(1)Die Akkreditierung des Piraten endet mit dem Austritt aus der Partei, dem Wechsel in einen anderen Kreis-/Landesverband oder dem Ende der SDMV.
+
+(2)Bei ausstehenden Mitgliedsbeitragszahlungen ist der Pirat nicht abstimmungsberechtigt und seine Akkreditierungsnummer erscheint nicht auf der Akkreditierungsliste. Die Akkreditierungskarte verliert aber nicht ihre Gültigkeit.
+
+
+== 5. Abstimmungsordnung ==
+
+(1)Alle Piraten, insbesondere jedoch die Abstimmungshelfer, sind verpflichtet, Vorkommnisse, die die Rechtmäßigkeit der Abstimmung in Frage stellen, sofort der Abstimmungsleitung bekannt zu geben. Diese hat alle Piraten unverzüglich über die Düsseldorf-Info-Mailingliste darüber in Kenntnis zu setzen.
+
+(2)Nimmt ein stimmberechtigter Pirat nicht an der Abstimmung teil, so entstehen hieraus keine rückwirkenden Rechte. Insbesondere ergibt sich daraus keine Rechtfertigung für eine Anfechtung von Abstimmungsergebnissen oder Beschlüssen.
+
+(3)Eine geheime Abstimmung ist sicherzustellen.
+
+=== 5.1 Stimmzettel ===
+
+(1)Auf den Stimmzetteln stehen die Antragsnummern und -bezeichnungen aus der Antragsfabrik, sowie Felder zum Ankreuzen für „Ja“ und „Nein“. Kein Kreuz bedeutet eine Enthaltung.
+
+(2)Andere Markierungen als Kreuze dürfen gewertet werden, solange der Wille des Abstimmenden eindeutig erkennbar ist.
+
+(3)Ist der Wille des Abstimmenden bei einem oder mehreren Anträgen nicht erkennbar, so wird diese Stimmabgabe als "ungültig" gezählt. Die Stimmabgabe bei den verbleibenden Anträgen wird dadurch nicht beeinflusst.
+
+(4)Alle anderen Einträge oder Markierungen führen dazu, dass der gesamte Stimmzettel ungültig wird.
+
+(5)Wird über zwei oder mehrere Anträge abgestimmt, die sich in ihrer Durchführung gegenseitig behindern oder ausschließen, so gelten diese als konkurrierende Anträge. Sie sind auf dem Stimmzettel entsprechend zu kennzeichnen. Erreichen zwei oder mehrere miteinander konkurrierende Anträge das satzungsgemäße Quorum, so gilt derjenige als angenommen, der die meisten Jastimmen erhält. Bei Gleichstand gilt derjenige als angenommen, der weniger Neinstimmen erhält. Sind auch diese identisch, gelten alle als abgelehnt.
+
+(6)Setzt ein Antrag die erfolgreiche Annahme eines anderen Antrags voraus, so gilt Ersterer als ergänzender Antrag zu Letzterem. Ergänzende Anträge sind auf dem Stimmzettel entsprechend zu kennzeichnen. Ein ergänzender Antrag gilt nur als angenommen, wenn dieser und der zugrunde liegende Antrag jeweils das satzungsgemäße Quorum erreicht haben.
+
+=== 5.2 Abstimmung ===
+
+(1)Zwei Abstimmungshelfer eröffnen unter Berücksichtigung von 4.2 die Urne.
+
+(2)Jeder Pirat erhält von einem Abstimmungshelfer die Stimmzettel für die Anträge über welche er abstimmen möchte. Den Erhalt dokumentiert der Abstimmungshelfer durch einen Vermerk auf der Stimmkarte des Piraten und auf der Akkreditiertenliste.
+
+(3)Die ausgefüllten Stimmzettel werden in die Urne eingeworfen, was wiederum von den Abstimmungshelfern auf der Stimmkarte und auf der Akkreditiertenliste vermerkt wird.
+
+=== 5.3 Auszählung und Veröffentlichung ===
+
+(1) Die Auszählung wird durch die Abstimmungsleitung und Abstimmungshelfern nach Beendigung des Wahlzyklus durchgeführt.
+
+(2)Ort und Zeitpunkt der Auszählung müssen mindestens 24 Stunden auf der Mailingliste Düsseldorf-Talk veröffentlicht werden und muss öffentlich zugänglich sein.
+
+(3) Alle Ergebnisse müssen umgehend auf der Mailingliste Düsseldorf-Info sowie im PiratenWiki dokumentiert werden.
+
+(4) Ein Antrag gilt als angenommen, wenn er die satzungsgemäße Mehrheit bekommt sowie das vorgeschriebene Quorum erreicht hat. Grundgesamtheit ist die Anzahl der gültigen abgegebenen Stimmen.
+
+(5) Die erneute Auszählung des Gesamtergebnisses muss a) auf Beschluss der Abstimmungsleitung oder b) auf Antrag in Textform von mindestens 20 in dem betroffenen Wahlgang stimmberechtigten Piraten, innerhalb einer Woche nach Veröffentlichung, an die Abstimmungsleitung erfolgen
+
+== 6. Anträge zur Änderung der Geschäftsordnung ==
+
+(1) Anträge zur Änderung der Geschäftsordnung müssen als sonstige Anträge eingereicht werden.
+
+(2) Eine veränderte Geschäftsordnung findet erst bei der nächsten SDMV-Abstimmung Anwendung.
