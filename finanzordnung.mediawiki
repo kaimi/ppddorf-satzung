@@ -39,11 +39,13 @@ Für alle Punkte, die nicht Gegenstand dieser Finanzordnung sind, gilt sinngemä
 
 (2) Fasst die Mitgliederversammlung keinen gegenteiligen Beschluss, so verfügt der Vorstand über 60% der entsprechenden verfügbaren Finanzmittel.
 
-(3) Die Summe der zugeteilten Beträge darf die Summe der voraussichtlichen Einnahmen des Kreisverbandes Düsseldorf der Piratenpartei Deutschland nicht überschreiten, um eine Deckung aller Ausgaben sicherzustellen.
+(3) Über Einzelausgaben bis einschließlich 200 Euro, die nicht dem Kreisverband zu Gute kommen entscheidet der Kreisvorstand autonom. Ausgaben die darüber hinausgehen müssen von einem Kreisparteitag genehmigt werden. Soweit eine Ausgabe vollständig oder bis auf einen Betrag, über den der Vorstand autonom entscheiden kann, durch zweckgebundene Spenden gedeckt ist, bedarf es keiner Genehmigung durch den Kreisparteitag.
 
-(4) Zweckgebundene Spenden unterliegen nicht der Verwaltung des Vorstandes und müssen vom Schatzmeister zweckgebunden zugewiesen werden.
+(4) Die Summe der zugeteilten Beträge darf die Summe der voraussichtlichen Einnahmen des Kreisverbandes Düsseldorf der Piratenpartei Deutschland nicht überschreiten, um eine Deckung aller Ausgaben sicherzustellen.
 
-(5) Der Schatzmeister hat zu allen Finanzentscheidungen ein Vetorecht.
+(5) Zweckgebundene Spenden unterliegen nicht der Verwaltung des Vorstandes und müssen vom Schatzmeister zweckgebunden zugewiesen werden.
+
+(6) Der Schatzmeister hat zu allen Finanzentscheidungen ein Vetorecht.
 
 == § 6 – Sonstiges ==
 (1) Kassenführung, Buchführung und das Führen der Mitgliederdatei erfolgt möglichst papierlos. Die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zu machen.
