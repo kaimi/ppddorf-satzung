@@ -35,9 +35,13 @@ Für alle Punkte, die nicht Gegenstand dieser Finanzordnung sind, gilt sinngemä
 (6) Der Rechenschaftsbericht wird vom Vorsitzenden und vom Schatzmeister des Kreisverbandes Düsseldorf der Piratenpartei Deutschland unterzeichnet.
 
 == §5 - Verteilung der Finanzmittel ==
-(1) Der Vorstand der Piratenpartei Düsseldorf ist berechtigt, Finanzbeschlüsse bis zu einem von der Mitgliederversammlung der Piratenpartei Düsseldorf festzulegenden Gesamtbetrag, ohne gesonderte Beschlüsse der Mitgliederversammlung zu fassen. Hierzu besteht Protokoll- und Informationspflicht auf der jeweils nächsten Mitgliederversammlung.
+(1) Die Mitgliederversammlung entscheidet über die Verwendung der Finanzmitteln. Sie berechtigt den Vorstand der Piratenpartei Düsseldorf über einen von ihr festgelegten Gesamtbetrag der Finanzmittel zu verfügen. Hierzu besteht Protokoll- und Informationspflicht.
 
-(2) Fasst die Mitgliederversammlung keinen gegenteiligen Beschluss, so verfügt der Vorstand über 60% der entsprechenden verfügbaren Finanzmittel.
+(2) Fasst die Mitgliederversammlung keinen Beschluss über die Verwendung von Finanzmitteln,
+
+# kann der Vorstand über 60% der verfügbaren Finanzmittel verfügen und 
+# kann der Vorstand über Einzelausgaben, die nicht dem Kreisverband unmittelbat zu Gute kommen, sofern diese durch zweckgebundene Spenden gedeckt sind, entscheiden und 
+# kann der Vorstand über Einzelausgaben, die nicht dem Kreisverband unmittelbar zu Gute kommen, bis zu einer Höhe von 200 EUR entscheiden. 
 
 (3) Die Summe der zugeteilten Beträge darf die Summe der voraussichtlichen Einnahmen des Kreisverbandes Düsseldorf der Piratenpartei Deutschland nicht überschreiten, um eine Deckung aller Ausgaben sicherzustellen.
 
