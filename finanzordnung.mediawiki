@@ -6,19 +6,19 @@ Für alle Punkte, die nicht Gegenstand dieser Finanzordnung sind, gilt sinngemä
 
 (2) Es gelten alle Regeln der Bundesfinanzverordnung der Piratenpartei Deutschland.
 
-== § 2 – Kassen – und Kontoführung ==
+== §2 - Kassen- und Kontoführung ==
 (1) Schatzmeister und 1. Vorsitzender sind gegenüber Kreditinstituten einzelvertretungsberechtigt.
 
 == §3 - Verwaltung und Buchführung ==
 (1) Für die Verwaltung der Finanzen ist der Schatzmeister des Kreisverbandes Düsseldorf der Piratenpartei Deutschland verantwortlich; er führt Buch über Einnahmen, Ausgaben und Vermögen des Kreisverbandes.
 
-(2) Der Schatzmeister ist für die ordnungsgemäße Kassenführung der Piratenpartei Düsseldorf verantwortlich und gewährleistet, dass die zum Erteilen eines Prüfungsvermerks für den Rechenschaftsbericht der Partei nach § 29 ff PartG vorgeschriebenen Stichproben möglich sind.
+(2) Der Schatzmeister ist für die ordnungsgemäße Kassenführung der Piratenpartei Düsseldorf verantwortlich und gewährleistet, dass die zum Erteilen eines Prüfungsvermerks für den Rechenschaftsbericht der Partei nach §29 ff PartG vorgeschriebenen Stichproben möglich sind.
 
 (3) Der Schatzmeister führt ein Konto im Namen des Kreisverbandes.
 
 (4) Der Schatzmeister kann virtuelle bzw. Unterkonten für jeden erforderlichen Grund kostenneutral verwalten und hat über diese entsprechend Buch zu führen.
 
-(5)  Die Buchführung, sowie die Verwaltung von Konten und virtuellen Konten hat möglichst transparent zu erfolgen. Das heißt, dass alle Buchungen, gegebenenfalls anonymisiert, veröffentlicht werden müssen.
+(5) Die Buchführung sowie die Verwaltung von Konten und virtuellen Konten hat möglichst transparent zu erfolgen. Das heißt, dass alle Buchungen, gegebenenfalls anonymisiert, veröffentlicht werden müssen.
 
 == §4 - Rechenschaftsbericht ==
 
@@ -26,7 +26,7 @@ Für alle Punkte, die nicht Gegenstand dieser Finanzordnung sind, gilt sinngemä
 
 (2) Der Rechenschaftsbericht wird vor der Zuleitung an den zuständigen Landes- sowie Bundesschatzmeister der Piratenpartei Deutschland im Vorstand beraten.
 
-(3) Der Rechenschaftsbericht muss die Vorgaben der § 24, § 26, § 27, § 28 PartG erfüllen.
+(3) Der Rechenschaftsbericht muss die Vorgaben der §24, §26, §27, §28 PartG erfüllen.
 
 (4) Rechnungsunterlagen, Bücher, Bilanzen und Rechenschaftsberichte sind zehn Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit Ablauf des Geschäftsjahres.
 
@@ -35,19 +35,19 @@ Für alle Punkte, die nicht Gegenstand dieser Finanzordnung sind, gilt sinngemä
 (6) Der Rechenschaftsbericht wird vom Vorsitzenden und vom Schatzmeister des Kreisverbandes Düsseldorf der Piratenpartei Deutschland unterzeichnet.
 
 == §5 - Verteilung der Finanzmittel ==
-(1) Der Vorstand der Piratenpartei Düsseldorf ist berechtigt, Finanzbeschlüsse bis zu einem von der Mitgliederversammlung der Piratenpartei Düsseldorf festzulegenden Gesamtbetrag, ohne gesonderte Beschlüsse der Mitgliederversammlung zu fassen. Hierzu besteht Protokoll- und Informationspflicht auf der jeweils nächsten Mitgliederversammlung.
+(1) Der Vorstand der Piratenpartei Düsseldorf ist berechtigt, Finanzbeschlüsse bis zu einem von der Mitgliederversammlung der Piratenpartei Düsseldorf festzulegenden Gesamtbetrag ohne gesonderte Beschlüsse der Mitgliederversammlung zu fassen. Hierzu besteht Protokoll- und Informationspflicht auf der jeweils nächsten Mitgliederversammlung.
 
 (2) Fasst die Mitgliederversammlung keinen gegenteiligen Beschluss, so verfügt der Vorstand über 60% der entsprechenden verfügbaren Finanzmittel.
 
-(3) Die Summe der zugeteilten Beträge darf die Summe der voraussichtlichen Einnahmen des Kreisverbandes Düsseldorf der Piratenpartei Deutschland nicht überschreiten, um eine Deckung aller Ausgaben sicherzustellen.
+(3) Die Summe der zugeteilten Beträge darf die Summe der voraussichtlichen Einnahmen des Kreisverbandes Düsseldorf der Piratenpartei Deutschland nicht überschreiten um eine Deckung aller Ausgaben sicherzustellen.
 
 (4) Zweckgebundene Spenden unterliegen nicht der Verwaltung des Vorstandes und müssen vom Schatzmeister zweckgebunden zugewiesen werden.
 
 (5) Der Schatzmeister hat zu allen Finanzentscheidungen ein Vetorecht.
 
-== § 6 – Sonstiges ==
-(1) Kassenführung, Buchführung und das Führen der Mitgliederdatei erfolgt möglichst papierlos. Die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zu machen.
+== §6 - Sonstiges ==
+(1) Kassenführung, Buchführung und das Führen der Mitgliederdatei erfolgen möglichst papierlos. Die Dateien und Datenbanken sind allen Vorständen zur Kontrolle zugänglich zu machen.
 
 (2) Eine Aufwandsentschädigung gem. Bundesbestimmungen muss 5 Werktage im Voraus schriftlich beim Schatzmeister der Piratenpartei Düsseldorf beantragt werden. Eine Beantragung garantiert keine Genehmigung der Aufwandsentschädigung. Die Mitteilung über Ablehnung oder Genehmigung des Antrages erfolgt schriftlich binnen 5 Werktagen ab Antragseingang. Eine Spendenmöglichkeit ist durch eine Ablehnung aber nicht ausgeschlossen.
 
-(3) Ortsverbände (= Stadtbezirks sowie Stadtteilverbände) im Tätigkeitsbereich des Kreisverbandes Düsseldorf der Piratenpartei Deutschland verzichten auf ihr Recht auf eigene Finanzhoheit gemäß § 4 Abs. 2 Bundesfinanzordnung. Für diese werden auf Anforderung Unterkonten vom Kreisverband geführt.
+(3) Ortsverbände (= Stadtbezirks sowie Stadtteilverbände) im Tätigkeitsbereich des Kreisverbandes Düsseldorf der Piratenpartei Deutschland verzichten auf ihr Recht auf eigene Finanzhoheit gemäß §4 Abs. 2 Bundesfinanzordnung. Für diese werden auf Anforderung Unterkonten vom Kreisverband geführt.

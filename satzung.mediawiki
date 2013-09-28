@@ -27,16 +27,16 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 
 (3) Alles weitere regeln Bundes- bzw. Landessatzung.
 
-== § 5 - Gliederung ==
+== §5 - Gliederung ==
 (1) Die Gliederung der Piraten der Piratenpartei Düsseldorf regelt die Bundessatzung der Piratenpartei Deutschland.
 
 == §5a - Beitritt und Austritt weiterer Städte, Kreise und Gemeinden ==
 
-(1) Dem Kreisverband Piratenpartei Düsseldorf können weitere Gebiete wie Städte, Kreise oder Gemeinden beitreten. Dadurch erweitert sich das unter § 1 Absatz 3 beschriebene Tätigkeitsgebiet automatisch. Eine explizite Satzungsänderung ist dafür nicht notwendig.
+(1) Dem Kreisverband Piratenpartei Düsseldorf können weitere Gebiete wie Städte, Kreise oder Gemeinden beitreten. Dadurch erweitert sich das unter §1 Absatz 3 beschriebene Tätigkeitsgebiet automatisch. Eine explizite Satzungsänderung ist dafür nicht notwendig.
 
 (2) Den Antrag zum Beitritt in den Kreisverband Piratenpartei Düsseldorf stellen die Piraten mit angezeigtem Wohnsitz innerhalb des betreffenden Gebiets durch Abstimmung mit einfacher Mehrheit auf einer in dem Gebiet einberufenen Kreismitgliederversammlung. Der Beitritt muss auf einer Kreismitgliederversammlung der Piratenpartei Düsseldorf mit einfacher Mehrheit bestätigt werden. Der Beitritt erfolgt unmittelbar nach der Bestätigung.
 
-(3) Die nachträglich zum Kreisverband beigetretenen Gebiete können einen eigenen Verband gründen und sich damit vom Kreisverband Piratenpartei Düsseldorf wieder lösen. Auf Antrag von 10% der Mitglieder, mindestens jedoch fünf Mitgliedern eines nachträglich zum Kreisverband beigetretenen Gebiets muss der Vorstand der Piratenpartei Düsseldorf alle Mitglieder dieses Kreises innerhalb von vier Wochen zu einer eigenen Kreismitgliederversammlung einladen. Nach der Gründung eines eigenständigen Verbandes werden die betreffenden Gebiete wieder automatisch aus § 1 Absatz 3 entfernt und das Tätigkeitsgebiet des Kreisverbands Piratenpartei Düsseldorf entsprechend verkleinert.
+(3) Die nachträglich zum Kreisverband beigetretenen Gebiete können einen eigenen Verband gründen und sich damit vom Kreisverband Piratenpartei Düsseldorf wieder lösen. Auf Antrag von 10% der Mitglieder, mindestens jedoch fünf Mitgliedern eines nachträglich zum Kreisverband beigetretenen Gebiets muss der Vorstand der Piratenpartei Düsseldorf alle Mitglieder dieses Kreises innerhalb von vier Wochen zu einer eigenen Kreismitgliederversammlung einladen. Nach der Gründung eines eigenständigen Verbandes werden die betreffenden Gebiete wieder automatisch aus §1 Absatz 3 entfernt und das Tätigkeitsgebiet des Kreisverbands Piratenpartei Düsseldorf entsprechend verkleinert.
 
 == §5b - Fachsprecher ==
 (1) Es kann zu jedem abgegrenzten Themengebiet der Kommunalpolitik des Tätigkeitsgebiets Fachsprecher geben. Die Fachsprecher können im Namen der Piratenpartei Düsseldorf zu den Diskussionen, Entscheidungen und Antragsentwürfen innerhalb ihrer Ausschüsse Stellung nehmen und Forderungen an diesen Ausschuss stellen. Themengebiete werden von der Kreismitgliederversammlung benannt und definiert.
@@ -69,7 +69,7 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 
 (3) Die Vertrauenspersonen werden von der Kreismitgliederversammlung gewählt. Sie müssen bei jeder Kreismitgliederversammlung bestätigt werden und dürfen nicht Mitglieder des Kreisvorstandes der Piratenpartei Düsseldorf sein.
 
-== §6 – Organe ==
+== §6 - Organe ==
 (1) Folgende Organe besitzt die Piratenpartei Düsseldorf:
 :(a) die Gründungsversammlung (tagt nur einmal)
 :(b) die Mitgliederversammlungen
@@ -77,15 +77,14 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 :* Ständige dezentrale Mitgliederversammlung
 :(c) den Vorstand
 
-(2) Die Mitgliederversammlungen ist die obersten Organe der Piratenpartei Düsseldorf auf Kreisebene
+(2) Die Mitgliederversammlungen sind die obersten Organe der Piratenpartei Düsseldorf auf Kreisebene.
 
 == §6a - Kreismitgliederversammlung ==
 (1) Die Kreismitgliederversammlung tagt grundsätzlich öffentlich. Stimmberechtigt sind alle Mitglieder der Piratenpartei Düsseldorf.
 
 (2) Die Kreismitgliederversammlung tagt mindestens einmal pro Quartal.
 
-(3) Die Einberufung erfolgt aufgrund eines Vorstandsbeschlusses
-oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder wenn der Vorstand handlungsunfähig ist.
+(3) Die Einberufung erfolgt aufgrund eines Vorstandsbeschlusses oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder wenn der Vorstand handlungsunfähig ist.
 
 (4) Der Kreisvorstand lädt jedes Mitglied in Textform mindestens zwei Wochen vorher ein. Die Einladung hat Angaben zum Tagungsort und Tagungsbeginn, der vorläufigen Tagesordnung und der Angabe, wo weitere, aktuelle Veröffentlichungen gemacht werden, zu enthalten. Spätestens 1 Woche vor der Kreismitgliederversammlung sind die Tagesordnung in aktueller Fassung, die geplante Tagungsdauer und alle bis dahin dem Vorstand eingereichten Anträge im Wortlaut zu veröffentlichen.
 
@@ -100,17 +99,17 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 
 (6) Die Ergebnisse der Kreismitgliederversammlung werden protokolliert und von der Protokollführung, der Versammlungsleitung und der Wahlleitung unterschrieben. Wahlprotokolle werden durch den Wahlleiter und mindestens zwei Wahlhelfer unterschrieben und dem Protokoll beigefügt.
 
-== §6b ständige dezentrale Mitgliederversammlung ==
-(1) Die SDMV kann durch Mehrheitsbeschluss der KMV für eine Dauer von drei bis zwölf Monaten einberufen werden oder durch den Vorstand mit einer Dauer von drei Monaten
+== §6b - ständige dezentrale Mitgliederversammlung ==
+(1) Die SDMV kann durch Mehrheitsbeschluss der KMV für eine Dauer von drei bis zwölf Monaten einberufen werden oder durch den Vorstand mit einer Dauer von drei Monaten.
 
-(2) Die KMV beschließt eine Geschäftsordnung für die SDMV
+(2) Die KMV beschließt eine Geschäftsordnung für die SDMV.
 
-== §6b - Vorstand ==
+== §6c - Vorstand ==
 (1) Dem Vorstand gehören drei bis sieben Piraten an: Ein Vorsitzender, ein stellvertretender Vorsitzender, der Kreisschatzmeister, sowie bis zu vier Beisitzer.
 
 (2) Der Vorstand vertritt die Piratenpartei Düsseldorf nach innen und außen und führt deren Geschäfte auf Grundlage der von den Mitgliedern bestimmten Ziele und Strategien. In aktuellen politischen Fragen setzt der Vorstand seine und die Initiative der Mitglieder um, bis die Kreismitgliederversammlung ihm durch ihre Beschlüsse jeweils Richtlinien gibt.
 
-(3) Die Mitglieder des Vorstandes werden mindestens einmal jährlich, spätestens in dem Quartal der vorjährigen Vorstandswahl, von der Kreismitgliederversammlung gewählt. Der erste Vorsitzende, der zweite Vorsitzende und der Schatzmeister werden in direkter Wahl gewählt. Eine außerordentliche Kreismitgliederversammlung zur Vorstandsneuwahl wird unverzüglich eingerufen wenn
+(3) Die Mitglieder des Vorstandes werden mindestens einmal jährlich, spätestens in dem Quartal der vorjährigen Vorstandswahl, von der Kreismitgliederversammlung gewählt. Der erste Vorsitzende, der zweite Vorsitzende und der Schatzmeister werden in direkter Wahl gewählt. Eine außerordentliche Kreismitgliederversammlung zur Vorstandsneuwahl wird unverzüglich eingerufen, wenn
 :(a) der erste Vorsitzende oder der Schatzmeister zurücktritt,
 :(b) mehr als zwei Vorstandsmitglieder zurücktreten oder
 :(c) mehr als 50% der im Kreisverband organisierten Piraten dem Vorstand schriftlich das Misstrauen aussprechen.
@@ -130,7 +129,7 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 
 (6) Der Vorstand verfasst Tätigkeitsberichte. Diese umfassen alle Tätigkeitsgebiete des Vorstandes, wobei diese Berichte in Eigenverantwortung jedes Einzelnen verfasst werden. Diese Tätigkeitsberichte werden in Textform unverzüglich an angemessener Stelle veröffentlicht. Der Vorstand verfasst jeden Monat einen Tätigkeitsbericht. Die Tätigkeitsberichte bilden den Rechenschaftsbericht, über den das jeweilige Vorstandsmitglied entlastet wird. Ausnahme ist die Finanzentlastung, diese findet weiterhin einmal jährlich nach Kontrolle der Kassenprüfer statt. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann die Piratenpartei Düsseldorf Ansprüche gegen ihn geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieses unverzüglich einen Tätigkeitsbericht zu verfassen und dem Vorstand zuzuleiten.
 
-== §6c - Initiativrecht ==
+== §6d - Initiativrecht ==
 (1) Jedes Mitglied kann den Vorstand zu einer Handlung auffordern, die sich im Aufgabenbereich des Vorstands befindet, insbesondere Stellungnahmen zu lokalpolitische Themen und Ereignissen oder Änderungen und Erweiterungen der Geschäftsordnung.
 
 (2) Jedes Mitglied kann jeden Fachsprecher zu einer Handlung auffordern, die sich im Aufgabenbereich des Fachsprechers befindet, insbesondere Stellungnahmen zu lokalpolitische Themen und Ereignissen.
@@ -139,12 +138,12 @@ oder wenn 10% der Mitglieder der Piratenpartei Düsseldorf es beantragen oder we
 
 (4) Die Bearbeitung der Anträge müssen protokolliert werden und im Tätigkeitsbericht vollständig aufgenommen werden.
 
-== §6d - Misstrauensklausel ==
+== §6e - Misstrauensklausel ==
 (1) Wird ein Initiativantrag nach Initiativrecht, der von fünf oder mehr Mitgliedern gestellt wird, abgelehnt, so wird automatisch ein Misstrauensvotum als Tagesordnungspunkt der nächsten Kreismitgliederversammlung hinzugefügt.
 
 (2) Wird ein Initiativantrag nach Initiativrecht von 20% oder mehr Mitgliedern zum Zeitpunkt des Antrags gestellt und vom Vorstand abgelehnt, so ist eine Kreismitgliederversammlung binnen vier Wochen einzuberufen.
 
-(3) Jedes Mitglied hat das Recht zu einer Kreismitgliederversammlung ein Misstrauensvotum zu fordern. Dabei sind die selben Fristen wie für einen Satzungsänderungsantrag einzuhalten.
+(3) Jedes Mitglied hat das Recht zu einer Kreismitgliederversammlung ein Misstrauensvotum zu fordern. Dabei sind dieselben Fristen wie für einen Satzungsänderungsantrag einzuhalten.
 
 == §7 - Bewerberaufstellung für die Wahlen zu Volksvertretungen ==
 (1) Für die Aufstellung der Bewerber für Wahlen zu Volksvertretungen gelten die Bestimmungen der Wahlgesetze, der Landessatzung sowie der Bundessatzung.
