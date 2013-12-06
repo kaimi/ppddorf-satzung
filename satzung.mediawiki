@@ -65,7 +65,7 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 == §5d - Vertrauenspersonen ==
 (1) Vertrauenspersonen sind Ansprechpartner, wenn Probleme (z. B. Mobbing, Diskriminierung) nicht öffentlich aus- oder angesprochen werden können. Ebenfalls vermitteln sie bei Bedarf bei internen Streitigkeiten und sind Ansprechpartner für Neumitglieder, z. B. zu Integrationszwecken. Weitere Aufgaben können von der Kreismitgliederversammlung zugewiesen werden.
 
-(2) Für Vertrauenspersonen besteht Verschwiegenheitspflicht, auch über die Dauer seiner Tätigkeit hinaus.
+(2) Für Vertrauenspersonen besteht Verschwiegenheitspflicht, auch über die Dauer ihrer Tätigkeit hinaus.
 
 (3) Die Vertrauenspersonen werden von der Kreismitgliederversammlung gewählt. Sie können bei jeder Kreismitgliederversammlung mit einfacher Mehrheit abgewählt werden und dürfen nicht Mitglieder des Kreisvorstandes der Piratenpartei Düsseldorf sein.
 
@@ -116,14 +116,14 @@ Für alle Punkte, die nicht Gegenstand dieser Satzung sind, gilt sinngemäß die
 (4) Der Vorstand tagt grundsätzlich öffentlich.
 
 (5) Der Vorstand gibt sich eine Geschäftsordnung und veröffentlicht diese unverzüglich an angemessener Stelle. Sie umfasst unter anderem Regelungen zu:
-:(a) Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung;
-:(b) Aufgaben und Kompetenzen der Vorstandsmitglieder;
-:(c) Dokumentation der Sitzungen;
-:(d) Virtuellen oder fernmündlichen Vorstandssitzungen;
-:(e) Form und Umfang des Tätigkeitsberichts;
-:(f) Beurkundung von Beschlüssen des Vorstandes;
-:(g) Beschlussfähigkeit;
-:(h) Einladungsverfahren zur Vorstandssitzung
+:(a) Verwaltung der Mitgliederdaten und deren Zugriff und Sicherung,
+:(b) Aufgaben und Kompetenzen der Vorstandsmitglieder,
+:(c) Dokumentation der Sitzungen,
+:(d) Virtuellen oder fernmündlichen Vorstandssitzungen,
+:(e) Form und Umfang des Tätigkeitsberichts,
+:(f) Beurkundung von Beschlüssen des Vorstandes,
+:(g) Beschlussfähigkeit,
+:(h) Einladungsverfahren zur Vorstandssitzung und
 :(i) Turnus der Vorstandssitzungen.
 
 (6) Der Vorstand verfasst Tätigkeitsberichte. Diese umfassen alle Tätigkeitsgebiete des Vorstandes, wobei diese Berichte in Eigenverantwortung jedes Einzelnen verfasst werden. Diese Tätigkeitsberichte werden in Textform unverzüglich an angemessener Stelle veröffentlicht. Der Vorstand verfasst jeden Monat einen Tätigkeitsbericht. Die Tätigkeitsberichte bilden den Rechenschaftsbericht, über den das jeweilige Vorstandsmitglied entlastet wird. Ausnahme ist die Finanzentlastung, diese findet weiterhin einmal jährlich nach Kontrolle der Kassenprüfer statt. Wird der Vorstand insgesamt oder ein Vorstandsmitglied nicht entlastet, so kann die Piratenpartei Düsseldorf Ansprüche gegen ihn geltend machen. Tritt ein Vorstandsmitglied zurück, hat dieses unverzüglich einen Tätigkeitsbericht zu verfassen und dem Vorstand zuzuleiten.
